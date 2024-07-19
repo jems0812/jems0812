@@ -16,10 +16,15 @@ Always striving to learn new technologies and improve my skills
 Efficient Solutions
 Focused on implementing efficient and effective technological solutions
 
-
-<?php
-echo "Hello, World!";
-?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
 
 
 
